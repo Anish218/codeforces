@@ -1,8 +1,10 @@
 /*
+                                                        Codeforces Round #650 (Div. 3)
     Algorithm
     ->first input your string;
     ->loop to go through all the odd indexes and its corresponding ones.
    print the concateneted string;
+  
 
 */
 #include<iostream>
